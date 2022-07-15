@@ -26,8 +26,8 @@ This is a challenge from frontendmentor to build a QR Code component. The challe
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Component Solution](https://github.com/Odiesta/qr-code-component)
+- Live Site URL: [QR Code Component](https://odiesta.github.io/qr-code-component/)
 
 ## My process
 I look at the design for desktop first and determine the html structure needed. Then i write html tag along with css, images. Then i start writing CSS for the desktop version. After it done i worked on mobile version for responsiveness.
